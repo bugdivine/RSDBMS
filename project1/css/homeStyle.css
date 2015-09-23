@@ -1,0 +1,76 @@
+.debug {
+    display: none;
+}
+body {
+    background-color: ghostwhite;
+}
+#header {
+    background-color: darkkhaki;
+    color: white;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: 00px;
+    font-size: 40px;
+    height: 50px;
+}
+.tableHeading {
+    background-color: darkkhaki;
+}
+table {
+    background-color: floralwhite;
+    align-content: center;
+    vertical-align: middle;
+}
+.logout {
+    margin-top: -28px;
+    background-color: darkkhaki;
+}
+.log {
+    margin-top: -15px;
+    text-align: right;
+    font-weight: bold;
+}
+.inputform {
+    margin-top: 22px;
+    color: #000;
+}
+.errorMessage {
+    color: red;
+    font-weight: bold;
+}
+.successMessage {
+    color: green;
+    font-weight: bold;
+}
+#options {
+    color: black;
+    background-color: #FFF;
+}
+#optionGroup {
+    color: black;
+    background-color: darkkhaki;
+}
+.printTableHeading {
+    background-color: darkkhaki;
+}
+.printTableRow {
+    background-color: floralwhite;
+}
+#button {
+    border-radius: 10px;
+    background-color: white;
+    border-color: slategrey;
+    border-width: 1px;
+}
+.link {
+    color: cornflowerblue;
+    font-style: oblique;
+}
+#autostd_id {
+
+}
+a, #certificate {
+    color: blue;
+    font-style: oblique;
+}

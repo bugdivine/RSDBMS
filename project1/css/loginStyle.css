@@ -1,0 +1,35 @@
+.message {
+    color: #F00;
+}
+#loginForm {
+    width: 350px;
+    height: 200px;
+    margin-top: 200px;
+    margin-left: 550px;
+    margin-right: 10px;
+    background-color: #EEE;
+    box-shadow: 1px 1px 5px 5px grey;
+}
+.headstrip {
+    margin-top: 100px;
+    background-color: darkkhaki;
+    width: 350px;
+}
+.errorMessage {
+    color: red;
+    font-weight: bold;
+}
+.successMessage {
+    color: green;
+    font-weight: bold;
+}
+#button {
+    border-radius: 10px;
+    background-color: white;
+    border-color: slategrey;
+    border-width: 1px;
+}
+table {
+    align-content: center;
+    vertical-align: middle;
+}
